@@ -1,0 +1,52 @@
+[
+    {
+      "marka":"Lexus",
+      "model":"LFA",
+      "dataPremiery":"2009-10-21"
+    },
+    {
+      "marka":"Mclaren",
+      "model":"Senna",
+      "dataPremiery":"2017-12-10"
+    },
+    {
+      "marka":"Porsche",
+      "model":"GT3 RS",
+      "dataPremiery":"2022-08-17"
+    },
+    {
+      "marka":"Ferrari",
+      "model":"F40",
+      "dataPremiery":"1987-07-21"
+    },
+    {
+      "marka":"Porsche",
+      "model":"Carrera GT",
+      "dataPremiery":"2003-03-03"
+    },
+    {
+      "marka":"Porsche",
+      "model":"918 spyder",
+      "dataPremiery":"2013-09-10"
+    },
+    {
+      "marka":"Nissan",
+      "model":"Skyline GT-R R34",
+      "dataPremiery":"1999-01-08"
+    },
+    {
+      "marka":"Nissan",
+      "model":"S15",
+      "dataPremiery":"1999-01-19"
+    },
+    {
+      "marka":"Nissan",
+      "model":"S14",
+      "dataPremiery":"1993-10-26"
+    },
+    {
+      "marka":"Lamborghini",
+      "model":"Sesto Elemento",
+      "dataPremiery":"2010-09-30"
+    }
+  ]
